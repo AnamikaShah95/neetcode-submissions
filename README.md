@@ -1,42 +1,41 @@
 ````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C853,50:32CD32,100:76FF03&text=NeetCode%20Solutions&fontColor=ffffff&fontSize=52&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00C853,50:32CD32,100:76FF03&text=NeetCode%20Solutions&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1200&pause=800&color=32CD32&center=true&vCenter=true&repeat=true&width=900&lines=Welcome;To;My;NeetCode;Solutions;Repository" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1200&pause=900&color=32CD32&center=true&vCenter=true&repeat=true&width=950&lines=Welcome;To;My;NeetCode;Solutions;Repository;Consistency+Beats+Talent;One+Problem+Every+Day+🚀"/>
 
 <h3>👩‍💻 @AnamikaShah95</h3>
 
-<p>
-🚀 Solving DSA • Preparing for Coding Interviews • Learning Every Day
-</p>
+<i>Building discipline through daily DSA practice.</i>
 
-<p>
+<br><br>
+
 <img src="https://img.shields.io/badge/Platform-NeetCode-32CD32?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Auto-Synced-success?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/DSA-Daily_Practice-32CD32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Auto%20Sync-Enabled-success?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-DSA-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Language-Multi--Language-32CD32?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Repository+Views&color=32CD32&style=for-the-badge"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Repository+Views&style=for-the-badge&color=32CD32"/>
 
 </div>
 
 ---
 
-# 📊 NeetCode Progress
+# 📊 Progress Dashboard
 
 <div align="center">
 
-| 🔥 Current Streak | ✅ Problems Solved | 🎯 Goal |
-|:-----------------:|:------------------:|:--------:|
-| **XX Days** | **XXX / 580** | **580 / 580** |
+| 🔥 Current Streak | ✅ Solved | 🎯 Target | 📈 Progress |
+|:----------------:|:---------:|:---------:|:-----------:|
+| **XX Days** | **XXX / 580** | **580 Problems** | **XX %** |
 
-### Progress
-
-```text
-██████████░░░░░░░░░░  XXX / 580
-````
+```
+███████████░░░░░░░░░░░░░░░░░░
+XXX / 580 Problems Solved
+```
 
 </div>
 
@@ -44,20 +43,43 @@
 
 # 📖 About
 
-This repository is automatically synchronized with **NeetCode.io** and contains all of my coding interview practice submissions.
+This repository is **automatically synchronized** with **NeetCode.io** and serves as a complete archive of my coding interview preparation.
 
-Every accepted solution is pushed directly to GitHub, making it easy to track my learning journey and maintain a complete history of solved problems.
+Each accepted solution is committed automatically, making it easy to monitor consistency, revisit solutions, and track long-term growth.
 
 ---
 
-# ✨ Features
+# ⚡ Repository Highlights
 
-* 🔄 Automatic GitHub Sync
-* 📚 Organized by Topic
-* 💻 Multiple Programming Languages
-* 📈 Track Progress
-* 📝 Complete Submission History
-* 🚀 Interview Preparation
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚀 Automated
+
+- GitHub Auto Sync
+- Instant Commit
+- Submission History
+- Easy Revision
+
+</td>
+
+<td width="50%">
+
+### 💡 Learning
+
+- Data Structures
+- Algorithms
+- Interview Questions
+- Pattern Recognition
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -65,61 +87,76 @@ Every accepted solution is pushed directly to GitHub, making it easy to track my
 
 ```text
 📦 neetcode-submissions
-│
+
 ├── 📂 Arrays & Hashing
-│     └── 📂 two-integer-sum
-│            ├── submission-0.py
-│            └── submission-1.py
+│      ├── two-integer-sum
+│      ├── valid-anagram
+│      └── contains-duplicate
+│
+├── 📂 Two Pointers
+│
+├── 📂 Stack
 │
 ├── 📂 Binary Search
-│     └── 📂 binary-search
-│            └── submission-0.cpp
+│
+├── 📂 Sliding Window
 │
 ├── 📂 Trees
 │
 ├── 📂 Graphs
 │
-└── 📂 Dynamic Programming
+├── 📂 Dynamic Programming
+│
+└── 📂 Greedy
 ```
 
 ---
 
-# 💻 Supported Languages
+# 💻 Languages
 
-| Language      | Extension |
-| ------------- | --------- |
-| 🐍 Python     | `.py`     |
-| ⚡ C++         | `.cpp`    |
-| ☕ Java        | `.java`   |
-| 🟨 JavaScript | `.js`     |
-| 🔷 TypeScript | `.ts`     |
-| 🦀 Rust       | `.rs`     |
-| 🐹 Go         | `.go`     |
-| 🍎 Swift      | `.swift`  |
-| 🟣 Kotlin     | `.kt`     |
-| 🗄 SQL        | `.sql`    |
+<div align="center">
+
+| 🐍 Python | ⚡ C++ | ☕ Java | 🟨 JavaScript | 🔷 TypeScript |
+|:---------:|:------:|:-------:|:-------------:|:-------------:|
+| 🐹 Go | 🦀 Rust | 🍎 Swift | 🟣 Kotlin | 🗄 SQL |
+
+</div>
 
 ---
 
-# 🎯 Why This Repository?
+# 🏆 Goals
 
-✔ Practice Data Structures & Algorithms
+- ✅ Solve every NeetCode problem
+- ✅ Strengthen problem-solving skills
+- ✅ Master interview patterns
+- ✅ Prepare for technical interviews
+- ✅ Build consistency through daily practice
 
-✔ Build Consistency
+---
 
-✔ Track My Progress
+# 📅 Sync Information
 
-✔ Prepare for Technical Interviews
+<details>
 
-✔ Maintain a Public Coding Journal
+<summary>⚙️ GitHub Sync Details</summary>
+
+- Automatic commits after every accepted submission
+- Organized by topic
+- Supports multiple programming languages
+- Complete submission history
+- Easy revision before interviews
+
+</details>
 
 ---
 
 <div align="center">
 
-## 🌟 Keep Learning, Keep Building!
+## 🌱 "Small progress every day leads to remarkable results."
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C853,50:32CD32,100:76FF03"/>
 
 </div>
-```
+````
