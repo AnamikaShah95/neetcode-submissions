@@ -3,10 +3,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00C853,50:32CD32,100:76FF03&text=NeetCode%20Solutions&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1200&pause=900&color=32CD32&center=true&vCenter=true&repeat=true&width=950&lines=Welcome;To;My;NeetCode;Solutions;Repository;Consistency+Beats+Talent;One+Problem+Every+Day+🚀"/>
-
-<h3>👩‍💻 @AnamikaShah95</h3>
-
 <i>Building discipline through daily DSA practice.</i>
 
 <br><br>
@@ -30,22 +26,6 @@ This repository is **automatically synchronized** with **NeetCode.io** and serve
 
 Each accepted solution is committed automatically, making it easy to monitor consistency, revisit solutions, and track long-term growth.
 
----
-
-## 📊 Progress Dashboard
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║ 🔥 Current Streak   │ 25 Days                             ║
-║ ✅ Problems Solved  │ 120 / 580                           ║
-║ 🎯 Target           │ 580 Problems                        ║
-║ 📈 Completion       │ 20.7%                               ║
-╚════════════════════════════════════════════════════════════╝
-
-Progress
-
-████████░░░░░░░░░░░░ 20.7%
-```
 
 ---
 
