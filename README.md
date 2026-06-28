@@ -24,28 +24,28 @@
 
 ---
 
-# 📊 Progress Dashboard
-
-<div align="center">
-
-| 🔥 Current Streak | ✅ Solved | 🎯 Target | 📈 Progress |
-|:----------------:|:---------:|:---------:|:-----------:|
-| **XX Days** | **XXX / 580** | **580 Problems** | **XX %** |
-
-```
-███████████░░░░░░░░░░░░░░░░░░
-XXX / 580 Problems Solved
-```
-
-</div>
-
----
-
 # 📖 About
 
 This repository is **automatically synchronized** with **NeetCode.io** and serves as a complete archive of my coding interview preparation.
 
 Each accepted solution is committed automatically, making it easy to monitor consistency, revisit solutions, and track long-term growth.
+
+---
+
+## 📊 Progress Dashboard
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║ 🔥 Current Streak   │ 25 Days                             ║
+║ ✅ Problems Solved  │ 120 / 580                           ║
+║ 🎯 Target           │ 580 Problems                        ║
+║ 📈 Completion       │ 20.7%                               ║
+╚════════════════════════════════════════════════════════════╝
+
+Progress
+
+████████░░░░░░░░░░░░ 20.7%
+```
 
 ---
 
@@ -154,9 +154,4 @@ Each accepted solution is committed automatically, making it easy to monitor con
 
 ## 🌱 "Small progress every day leads to remarkable results."
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C853,50:32CD32,100:76FF03"/>
-
 </div>
-````
